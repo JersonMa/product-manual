@@ -22,6 +22,7 @@
               {
                 "group": "OVERVIEW",
                 "pages": [
+                  "en/llm-only-test",
                   "en/portal/introduction",
                   "en/portal/find-right-info",
                   {
