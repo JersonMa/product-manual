@@ -14,7 +14,8 @@
         "version": "🌐 English",
         "tabs": [
           {
-            "tab": "Cobo Portal",
+            "tab": "LLM Context",
+            "hidden": true,
             "groups": [
               {
                 "group": "LLM Only",
@@ -22,7 +23,12 @@
                 "pages": [
                   "en/llm-only-test"
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "tab": "Cobo Portal",
+            "groups": [
               {
                 "group": "OVERVIEW",
                 "pages": [
