@@ -2,9 +2,6 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Product Manuals",
-  "seo": {
-    "indexing": "all"
-  },
   "colors": {
     "primary": "#1F32D6",
     "light": "#1F32D6",
@@ -20,9 +17,15 @@
             "tab": "Cobo Portal",
             "groups": [
               {
+                "group": "LLM Only",
+                "hidden": true,
+                "pages": [
+                  "en/llm-only-test"
+                ]
+              },
+              {
                 "group": "OVERVIEW",
                 "pages": [
-                  "en/llm-only-test",
                   "en/portal/introduction",
                   "en/portal/find-right-info",
                   {
