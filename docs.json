@@ -2,6 +2,9 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Product Manuals",
+  "seo": {
+    "indexing": "all"
+  },
   "colors": {
     "primary": "#1F32D6",
     "light": "#1F32D6",
