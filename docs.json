@@ -17,9 +17,15 @@
             "tab": "Cobo Portal",
             "groups": [
               {
+                "group": "LLM Only",
+                "hidden": true,
+                "pages": [
+                  "en/llm-only-test"
+                ]
+              },
+              {
                 "group": "OVERVIEW",
                 "pages": [
-                  "en/llm-only-test",
                   "en/portal/introduction",
                   "en/portal/find-right-info",
                   {
